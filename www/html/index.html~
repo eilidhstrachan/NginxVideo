@@ -14,7 +14,7 @@
 
       $f("player", "http://releases.flowplayer.org/swf/flowplayer-3.2.18.swf", {
       clip: {
-      url: 'bbb.mp4',
+      url: 'popeye.mp4',
       scaling: 'fit',
       provider: 'hddn'
       },
